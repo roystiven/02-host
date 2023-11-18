@@ -1,7 +1,7 @@
 import React, { Fragment } from "react";
 import ReactDOM from "react-dom/client";
 import Navbar from "navbar/Navbar"
-import Counter from "CounterReact/CounterReact"
+/* import Counter from "CounterReact/CounterReact" */
 import "./index.css";
 
 const App = () => (
@@ -9,7 +9,7 @@ const App = () => (
     <Navbar>
     </Navbar>
     hliasdasd
-    <Counter/>
+  
   </Fragment>
 );
 
