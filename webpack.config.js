@@ -44,8 +44,8 @@ module.exports = (_, argv) => ({
       name: "host",
       filename: "remoteEntry.js",
       remotes: {
-        navbar: "navbar@https://phenomenal-genie-c1f257.netlify.app/remoteEntry.js",
-        CounterReact: "counter_mf@http://localhost:55270/remoteEntry.js"
+        navbar: "navbar@https://phenomenal-genie-c1f257.netlify.app/remoteEntry.js"
+ /*        CounterReact: "counter_mf@http://localhost:55270/remoteEntry.js" */
       },
       exposes: {},
       shared: {
